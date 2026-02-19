@@ -1,0 +1,3 @@
+MY first code in SQL
+
+SELECT user_id FROM users
