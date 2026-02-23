@@ -1,0 +1,9 @@
+MY first code in SQL
+
+SELECT user_id FROM users
+
+SELECT * FROM users --To fetch all the data from users
+
+SELECT DISTINCT user_name FROM users --To fetch a unique values from users
+
+
