@@ -1,0 +1,16 @@
+Challenge
+events: event_id, people
+Fetch all of the event_ids where people is less than 14 people
+
+SELECT event_id FROM events
+WHERE people < 14 
+-----------------------------------
+The AND keyword
+Challenge
+people: name, age, status
+Fetch all of the people who are between the ages of 20 and 28 (including 20 and 28).
+
+SELECT * FROM people
+WHERE age>=20 AND age<=28
+
+---------------------------------
